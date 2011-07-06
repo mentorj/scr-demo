@@ -1,0 +1,2 @@
+Private-Package: com.javaxpert.books.osgi.scrdemo.ui.impl2
+Service-Component: *
