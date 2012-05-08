@@ -11,4 +11,5 @@ package com.javaxpert.books.osgi.scrdemo.ui.api;
 public interface IAction {
 	public String doSomething();
 
+	public String getName();
 }
