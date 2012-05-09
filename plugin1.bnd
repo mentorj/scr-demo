@@ -1,2 +1,3 @@
-Private-Package: com.javaxpert.books.osgi.scrdemo.ui.impl1
 Service-Component: *
+Private-Package: com.javaxpert.books.osgi.scrdemo.ui.impl1
+Export-Package:  com.javaxpert.books.osgi.scrdemo.ui.api;version="2.0";provide:=true
