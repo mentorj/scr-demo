@@ -1,4 +1,5 @@
 scr-demo
 ========
 
-domonstration code for OSGi SCR service
+demonstration code for OSGi SCR service
+Eclipse project using Bndtools plugin
