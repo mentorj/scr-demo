@@ -1,0 +1,9 @@
+Using this project requires you:
+- to run an Eclipse project
+- to install Bndtools
+- to use a cnf repository or any other OBR repository filled with a few dependencies as stated in the bnd.bnd run section ( scr implementation plus some other standard OSGi bundles)
+- to use a Java Runtime , tested with 1.6u33 and 1.6u35 on Linux AMD 64 platform
+
+
+October 2012
+J.MOLIERE
