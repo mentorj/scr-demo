@@ -1,9 +1,6 @@
 package com.javaxpert.books.osgi.scrdemo.ui.impl1;
-
 import aQute.bnd.annotation.component.Component;
-
 import com.javaxpert.books.osgi.scrdemo.ui.api.IAction;
-
 @Component
 public class StupidAction1 implements IAction {
 	@Override

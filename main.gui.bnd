@@ -1,3 +1,4 @@
 Private-Package: com.javaxpert.books.osgi.scrdemo.ui.main
-Import-Package: com.javaxpert.books.osgi.scrdemo.ui.api;version="[2.0,3.0)",javax.swing,javax.swing.border,javax.swing.event,org.osgi.framework
+Import-Package: com.javaxpert.books.osgi.scrdemo.ui.api;version=1.0.0,javax.swing,javax.swing.border,javax.swing.event,org.osgi.framework
 Service-Component: *
+Bundle-Version: 1.0.0

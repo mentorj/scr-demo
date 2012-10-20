@@ -1,1 +1,2 @@
-Export-Package: com.javaxpert.books.osgi.scrdemo.ui.api;version=2.0
+Export-Package: com.javaxpert.books.osgi.scrdemo.ui.api;version=1.0
+Bundle-Version: 1.0.0
